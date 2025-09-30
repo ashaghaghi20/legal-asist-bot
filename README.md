@@ -1,2 +1,2 @@
-# legal_bot.py
+# legal-asist-bot
 law asist
