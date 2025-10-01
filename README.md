@@ -1,2 +1,2 @@
-# legal-asist-bot
+# Voxta-bot
 law asist
