@@ -1,2 +1,0 @@
-# Voxta-bot
-law asist
